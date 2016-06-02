@@ -6,13 +6,13 @@
 ## Installation & usage
 There are two different palettes included in the `flat-palette` folder.
 
-#### SketchPalette version
-To use the `.sketchpalette` version, please install [SketchPalettes](https://github.com/andrewfiorillo/sketch-palettes), and follow its instructions.
+#### Sketch Palettes version
+To use the `.sketchpalette` version, install [SketchPalettes](https://github.com/andrewfiorillo/sketch-palettes), and import the palette from the `Plugins -> Sketch Palettes -> Load Palette...` dropdown menu.
 
 ![image](img-flatpalette.jpg)
 
 #### Craft Library version
-To use the `sketch-flat-palette.library` version, please install [Craft](https://www.invisionapp.com/craft) by Invision, and follow its instructions.
+To use the `sketch-flat-palette.library` version, install [Craft](https://www.invisionapp.com/craft) by Invision, and import the Shared Library from the Craft panel.
 
 ![image](img-craft.jpg)
 
